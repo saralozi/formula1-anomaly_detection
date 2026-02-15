@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Formula 1 is a sport driven by precision, strategy, and data. Most races follow predictable patterns — consistent lap times, planned pit strategies, and performance trends aligned with expectations.
 
